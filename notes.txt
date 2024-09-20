@@ -1,0 +1,17 @@
+Origin
+Protocol + Host + Port
+
+CORS
+Cross Origin Resource Sharing
+
+Cross-Site Scripting
+XSS. script injected through inputs / URLs
+
+Session Hijacking
+exploit active sessions (e.g. through cookies) to gain unauthorized access
+
+Cross-Site Request Forgery
+CSRF. innocent user is tricked into executing actions via a forged request, exploiting that user's authenticated session
+
+Privilege escalation
+attacker gains elevated access to resources that are normally protected from an application or user
